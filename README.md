@@ -1,2 +1,2 @@
 # classification-on-tweet
-In this code we classify different tweets. The available accuracy with the svd size reduction mechanism reached nearly 80%.
+Classification of English Twitter data using the TF-IDF vector. This project used a decision tree model, SVC, RandomForestClassifier, and K neighbors classifier in order to distinguish fake tweets from real tweets with high accuracy.
